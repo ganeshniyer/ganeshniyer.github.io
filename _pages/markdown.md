@@ -197,9 +197,7 @@ Getting our science styling on with H<sub>2</sub>O, which should push the "2" do
 
 Still sticking with science and Isaac Newton's E = MC<sup>2</sup>, which should lift the 2 up.
 
-### Variable Tag
-
-This allows you to denote <var>variables</var>.
+## Publications
 
 2020 S. S. Arun and G. Neelakanta Iyer, "On the Analysis of COVID19 - Novel Corona Viral Disease Pandemic Spread Data Using Machine Learning Techniques," 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS), Madurai, India, 2020, pp. 1222-1227, doi: 10.1109/ICICCS48265.2020.9121027.
 
