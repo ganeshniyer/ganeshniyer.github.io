@@ -1,5 +1,8 @@
 # main links links
 main:
+  - title: "Research"
+    url: /markdown/
+    
   - title: "Publications"
     url: /publications/
 
@@ -9,7 +12,7 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Portfolio"
+  - title: "Kathakali"
     url: /portfolio/
         
   - title: "Blog Posts"
@@ -18,5 +21,5 @@ main:
   - title: "CV"
     url: /cv/
     
-  - title: "Guide"
+  - title: "Opportunities"
     url: /markdown/
