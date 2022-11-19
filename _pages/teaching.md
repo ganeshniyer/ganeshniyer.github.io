@@ -4,15 +4,29 @@ title: "Teaching"
 author_profile: true
 ---
 
-## National University of Singapore
+## National University of Singapore (2021 - Present)
 ### Current
 
   * CS3203 Software Engineering Project
   * TIC4902S Software Engineering Capstone Project
 
+### Past
 
+ * CS3203 Software Engineering Project 
+ * CS2103 Software Engineering (Tutorials)
+
+## Amrita Vishwa Vidyapeetham (2018-2020)
    
-      * List item two
-      * List item three
-      * List item four
-  * List item two
+  * Cloud Computing Services
+  * Software Engineering
+  * Introduction to Game Theory
+  * Game Theory and Engineering Applications (PhD)
+  * Computer organisation and Architecture 
+
+## International Institute of Information Technology - IIIT Hyderabad (2013-2018)
+   
+  * Game Theory for Computer Science
+  * Computer Networks
+  * Advanced Computer Networks 
+  * Scripting Languages (Post graduate)
+
