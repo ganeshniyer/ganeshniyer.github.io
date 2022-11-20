@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Kathakali"
+excerpt: "Kathakali is a traditional theatre drama originated in 17th Century in Kerala, India. Dr Ganesh is a Kathakali dancer, Kathakali literature writer and Kathakali Researcher <br/><img src='/images/01-img.jpg'>"<br/><img src='/images/02-img.jpg'>"<br/><img src='/images/03-img.jpg'>"
 collection: portfolio
 ---
 
