@@ -14,6 +14,9 @@ Some essential skills needed included knowledge in artificial intelligence (ML, 
 ### Other projects of interest
 Looking for students highly motivated in the broad domains of Cultural Heritage, Theatre Arts, Helthcare and Education. If you have an interesting project idea in these domains, I am open for discussion
 
+### NUS students project options
+If you are interested in exploring projects/research in FYP, UROP, Master Thesis, PhD supervision or anything as such in the broad areas listed above, contact me. 
+
 ## Contact Me
 * Email: gni@nus.edu.sg 
 * Office: COM2-03-55, School of Computing, National University of Singapore 
