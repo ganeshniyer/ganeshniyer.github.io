@@ -17,43 +17,24 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Lecturer, National University of Singapore (2021-Present)
+* Founder, STeAdS Virtual Research Group (2021-PResent)
+* Lead DevOps Engineer, Salesforce, India (2020-2021)
+* Associate Professor, Amrita Vishwa Vidyapeetham, India (2018-2020)
+* Progress Software, India (2012-2018)
+  * QA Architect, Technical Support Manager, Technology Evangelist
+* Visiting Faculty, IIIT-Hyderbad, India (2013-2018)
+* Teaching Assitant, National University of Singapore (2007-2012) 
+* Senior Software Engineer, NXP Semiconductors Ltd, India (2006-2007)
+* Software Engineer, Sasken Communications Technologies, India (2004-2006)
+* Guest Faculty, RIT-Kottayam, India (2004)
   
-Skills
+Achievements
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Certificied Kubernetes Administratior (2021)
+* Selected as AWS Educate Cloud Faculty Ambassador by Amazon Web Services in 2019 and 2020 in recognition of his development, implementation and thought leadership in cloud computing programs, curricula and course
+* Recognition for robustness activities in Rollbase QA, Progress Software, 2016
+* Team Achievement Award for e-commerce integration testing, Progress, 2015
+* Outstanding Contributor Award for Integration QA lead activities, Progress, 2014
+* National University of Singapore, Postgraduate Research Scholarship, 2009-2012
+* University Topper (First Rank) for the B-Tech degree examination in 2004
