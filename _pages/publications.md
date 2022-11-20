@@ -1,10 +1,19 @@
 ---
-permalink: /publications/
+permalink: /opportunities/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
+## Opportunities
 
-{% include base_path %}
+### Active Projects (with opportunities for research and development collaborations)
+Looking for students motivated and interested in the below active projects
+* Technological advancements for Wayang Kulit
+* Technological advancements for Kathakali
+Some essential skills needed included knowledge in artificial intelligence (ML, GANs, DL), Image processing techniques, Audio processing, Video processing, Cloud computing, Web development etc. 
+
+### Other projects of interest
+Looking for students highly motivated in the broad domains of Cultural Heritage, Theatre Arts, Helthcare and Education. If you have an interesting project idea in these domains, I am open for discussion
+
+## Contact Me
+* Email: gni@nus.edu.sg 
+* Office: COM2-03-55, School of Computing, National University of Singapore 
