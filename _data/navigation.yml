@@ -7,7 +7,10 @@ main:
     url: /markdown/
     
   - title: "Talks"
-    url: /talks/    
+    url: /talks/ 
+    
+  - title: "Activities"
+    url: /activities/
 
   - title: "Kathakali"
     url: /portfolio/
@@ -19,4 +22,4 @@ main:
     url: /cv/
     
   - title: "Opportunities"
-    url: /markdown/
+    url: /publications/
