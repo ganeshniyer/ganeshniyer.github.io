@@ -25,9 +25,9 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Collaborators 
 
-*  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland
-*  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore
-*  
+*  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
+*  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
+*  [Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabhu/), SoC, NUS - Singapore, AI, Education
 
 ## Publications
 
