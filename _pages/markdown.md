@@ -11,7 +11,7 @@ redirect_from:
 
 With the aim of using Software Engineering and technological advancements for the benefit of various aspects of the society, Dr Ganesh founded STeAdS virtual research group in 2021. Students and collaborators from different parts of the world are working with him on various projects. Three focus areas are Cultural Heritage, Healthcare and Education
 
-### Technology for Ats and Cultural Heritage
+### Technology for Arts and Cultural Heritage
 
 Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indoensia are originated centuries ago and are in the current scope for research by STeAds on applying technologies such as artificial intelligence, image processing and cloud computing. 
 
@@ -22,6 +22,12 @@ The reseacch scope is currently (not limited to) on exploring TinyML and similar
 ### Education
 
 Primary scope is looking at building platforms for students to get industry like experience in Software Engineering development principles and practices. Examples include budiling an academic project management platform, a platform for custom AI education etc. 
+
+## Collaborators 
+
+*  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland
+*  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore
+*  
 
 ## Publications
 
