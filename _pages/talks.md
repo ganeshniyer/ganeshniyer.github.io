@@ -43,6 +43,7 @@ author_profile: true
 
 ## Major ones in India
 
+* "AI and moderntechnologies for healthcare", Invited Talk, INTERNATIONAL CONFERENCE ON MATHEMATICAL ANALYSIS IN COMPUTATIONAL BIOLOGY AND DATA SCIENCE, ICMACBDS’ 23, India
 * “Cloud Computing and Industry 4.0 – A Match made in heaven”, Faculty Development Program at ASIET, Kalady, Kerala
 * “Artificial Intelligence – The brain of Industry 4.0”, Faculty Development Program at MITS, Kerala 
 * Special session on "Machine Learning - A Gentle Introduction" as part of ViTECoN 2019, VIT, Vellore, Tamil Nadu in March 2019 
