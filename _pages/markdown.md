@@ -23,6 +23,13 @@ The reseacch scope is currently (not limited to) on exploring TinyML and similar
 
 Primary scope is looking at building platforms for students to get industry like experience in Software Engineering development principles and practices. Examples include budiling an academic project management platform, a platform for custom AI education etc. 
 
+## Research Grant
+
+### HSS Seed Fund (Collaborative Research) 2, 2022 (Co-PI)
+
+**Title:** Using Machine Learning to reconstruct historical objects in culturally-situated ways \
+**PI:**  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore
+
 ## Collaborators 
 
 *  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
