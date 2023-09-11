@@ -35,8 +35,13 @@ Primary scope is looking at building platforms for students to get industry like
 *  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
 *  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
 *  [Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabhu/), SoC, NUS - Singapore, AI, Education
+*  [Sanka Rasanayaka](https://www.comp.nus.edu.sg/cs/people/sanka/), SoC, NUS - Singapore, Software Engineering Education
 
 ## Publications
+
+2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, Newzealand
+
+2022 Shyama Harihar, Ganesh Neelakanta Iyer, "Visual exploratory data analysis on Geo-spatial distribution of COVID-19 spread in India", Proceedings of the International Conference on Innovative Computing & Communication (ICICC), 2022
 
 2020 S. S. Arun and G. Neelakanta Iyer, "On the Analysis of COVID19 - Novel Corona Viral Disease Pandemic Spread Data Using Machine Learning Techniques," 2020 4th International Conference on Intelligent Computing and Control Systems (ICICCS), Madurai, India, 2020, pp. 1222-1227, doi: 10.1109/ICICCS48265.2020.9121027.
 
