@@ -8,6 +8,9 @@ author_profile: true
 ### Current
 
   * CS3203 Software Engineering Project
+  * TIC 4304 Software Security
+  * TIC 4004 Software Quality Control
+  * TIC 3902S Industrial Practice Project
   * TIC4902S Software Engineering Capstone Project
 
 ### Past
