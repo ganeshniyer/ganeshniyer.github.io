@@ -43,6 +43,9 @@ author_profile: true
 
 ## Major ones in India
 
+* Keynote speech on Securing your production ready machine learning applications, at IEEE International Conference on Quantum Technologies, Communications, Computing, HArdware and Embedded Systems, IIIT- Kottayam, Kerala, September 2023 
+* Keynote speech on Making Industry ML systems production ready, 9th International Conference on Smart Computing and Communications, MITS, Kochi, India, August 2023
+* Chief guest and Keynote speech on production ready machine learning systems, 3rd International Conference on advances in Security and Computing", LBS College of Engineering, Kasaragod, Kerala, India, July 2023
 * "AI and moderntechnologies for healthcare", Invited Talk, INTERNATIONAL CONFERENCE ON MATHEMATICAL ANALYSIS IN COMPUTATIONAL BIOLOGY AND DATA SCIENCE, ICMACBDS’ 23, India
 * “Cloud Computing and Industry 4.0 – A Match made in heaven”, Faculty Development Program at ASIET, Kalady, Kerala
 * “Artificial Intelligence – The brain of Industry 4.0”, Faculty Development Program at MITS, Kerala 
