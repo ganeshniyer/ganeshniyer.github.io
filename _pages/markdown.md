@@ -39,7 +39,10 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Publications
 
-2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, Newzealand
+2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, New Zealand
+
+2023 Guoxin Wang, Member, Qingyuan Wang, Ganesh Neelakanta Iyer, Avishek Nag and Deepu John, "Unsupervised Pre-Training Using Masked
+Autoencoders for ECG Analysis", Biomedical circuits and systems conference, IEEE BiOCAS, October 2023 
 
 2022 Shyama Harihar, Ganesh Neelakanta Iyer, "Visual exploratory data analysis on Geo-spatial distribution of COVID-19 spread in India", Proceedings of the International Conference on Innovative Computing & Communication (ICICC), 2022
 
