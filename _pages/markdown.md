@@ -39,6 +39,8 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Publications
 
+2024 An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project, Sanka Rasnayaka, Wang Guanlin, Ridwan Shariffdeen, Ganesh Neelakanta Iyer. At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.
+
 2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, New Zealand
 
 2023 Guoxin Wang, Member, Qingyuan Wang, Ganesh Neelakanta Iyer, Avishek Nag and Deepu John, "Unsupervised Pre-Training Using Masked
