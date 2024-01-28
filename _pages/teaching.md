@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 ## National University of Singapore (2021 - Present)
+
+### AWARDS
+* Faculty Teaching Excellence Award 2024, School of Computing, NUS
+
 ### Current
 
   * CS3203 Software Engineering Project
