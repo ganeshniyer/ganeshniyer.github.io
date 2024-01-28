@@ -31,6 +31,7 @@ Work experience
   
 Achievements
 ======
+* Faculty Teaching Excellence Award 2024, School of Computing, NUS
 * Certificied Kubernetes Administratior (2021)
 * Selected as AWS Educate Cloud Faculty Ambassador by Amazon Web Services in 2019 and 2020 in recognition of his development, implementation and thought leadership in cloud computing programs, curricula and course
 * Recognition for robustness activities in Rollbase QA, Progress Software, 2016
