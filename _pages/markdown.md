@@ -39,7 +39,9 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Publications
 
-2024 An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project, Sanka Rasnayaka, Wang Guanlin, Ridwan Shariffdeen, Ganesh Neelakanta Iyer. At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.
+2024 Sanka Rasnayaka, Wang Guanlin, Ridwan Shariffdeen, Ganesh Neelakanta Iyer, "An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.
+
+2024 Wu Zhenhan, Ganesh Neelakanta Iyer, "Improved BCoop, A Cooperation-Promoting Reward Scheme in Heterogeneous Federated Learning", 2024 4th International Conference on Data Engineering and Communication systems -ICDECS-2024 [March 22nd  &  23rd 2024, RNSIT  Bangalore
 
 2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, New Zealand
 
@@ -69,6 +71,8 @@ Autoencoders for ECG Analysis", Biomedical circuits and systems conference, IEEE
 2014 Dr. Ganesh Neelakanta Iyer, Maddala, S., Kishore, S., and Kolamala, P. S., “WaFeR: Model-driven test-framework for testing web UI-based applications”, in ", IEEE Computer Society IT Professional Conference on Challenges in Information Systems Governance, National In-stitute of Standards and Technology (NIST) in Gaithersburg, MD, USA (IEEE ITPRO,'14), 2014
 
 2013 Dr. Ganesh Neelakanta Iyer, Pasimuthu, J., and Loganathan, R., “PCTF: An Integrated, Extensible Cloud Test Framework for Testing Cloud Platforms and Applications”, in 2013 13th International Conference on Quality Software, 2013.
+
+2012 Ganesh Neelakanta Iyer, Bharadwaj Veeravalli, Sakthi Ganesh Krishnamoorthy, "On handling large-scale polynomial multiplications in compute cloud environments using divisible load paradigm", IEEE Transactions on Aerospace and Electronic Systems, Pages 820-831, Volume 48, Issue 1, 2012
 
 2012 Dr. Ganesh Neelakanta Iyer, Chandrasekaran, R., and Veeravalli, B., “Auction-based vs. incentive-based Multiple-Cloud orchestration mechanisms”, in 2012 IEEE International Conference on Communication, Networks and Satellite (ComNetSat), 2012.
 
