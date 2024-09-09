@@ -39,6 +39,13 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Publications
 
+2024 Ganesh Neelakanta Iyer, Lim Bing Sen, Wong Zhi, Chester, Kelvin Chua, "TROFOS - Agile Project Management Platform for Software Engineering Education", International Conference on Teaching, Assessment and Learning for Engineering, December 2024, India
+
+2024 Ganesh Neelakanta Iyer, Goh, Yisheng, Chee Heng Er Metilda, Weng Xian Choong, Koh Shao Wei, "A Web-Based IDE for DevOps Learning in Software Engineering Higher Education", International Conference on Teaching, Assessment and Learning for Engineering, December 2024, India
+
+2024 Ganesh Neelakanta Iyer, Nattapong Saengarunvong, Minh Hien Le, "When Artificial Intelligence meets Navarasas - Facial Expression Classification in Kathakali Using DSFD and CNN", 4th IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems 2024
+(IEEE SPICES 2024)
+
 2024 Sanka Rasnayaka, Wang Guanlin, Ridwan Shariffdeen, Ganesh Neelakanta Iyer, "An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.[ARXIV](https://arxiv.org/abs/2401.16186)
 
 2024 Aishwarya Hariharan Iyer, Ganesh Neelakanta Iyer, "Gamified Screening For Developmental Dyslexia Among Young Readers", 3rd IEEE International Conference on Innovation in Technology, Bengalurue, India, 2024
