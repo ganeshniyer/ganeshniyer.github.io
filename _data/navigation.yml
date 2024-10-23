@@ -6,9 +6,7 @@ main:
   - title: "Research"
     url: /markdown/
     
-  - title: "Students"
-    url: /students/
-    
+  
   - title: "Talks"
     url: /talks/ 
     
