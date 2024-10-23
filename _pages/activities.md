@@ -7,8 +7,8 @@ author_profile: true
 ## Teaching Activities
 
   * [Several executive professional certificate courses]([https://ace.nus.edu.sg/])
-  * [Online MOOC Course]([https://nus.comp.emeritus.org/chief-data-analytics-and-ai-officer-program?]) on Chief Data and AI OFficer CTO
-  * [Online MOOC Course]([https://nus.comp.emeritus.org/chief-technology-officer?]) on Chief Technology OFficer CTO
+  * [Online MOOC Course](https://nus.comp.emeritus.org/chief-data-analytics-and-ai-officer-program?) on Chief Data and AI OFficer CTO
+  * [Online MOOC Course](https://nus.comp.emeritus.org/chief-technology-officer?) on Chief Technology OFficer CTO
   * [Online MOOC Course](https://nus.comp.emeritus.org/cloud-computing) on Cloud Computing: Strategy, Compliance and Migration Plan by Emeritus
   * [MLOps](https://youtu.be/-jQzZ5od50Y) Introduction video
   * [Professional Certificate in Machine Learning Operations](https://ace.nus.edu.sg/professional-certificate-in-machine-learning-operations/) by ACE
