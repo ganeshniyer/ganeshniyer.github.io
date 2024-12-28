@@ -7,7 +7,7 @@ author_profile: true
 
 ## Major ones globally (Excluding India and Singapore)
 
-* Technologies for Theatre Arts and Cultural Heritage, Invited Talk, 3rd International Research Workshop, November 2022, Research Workshop, Surabaya, Indonesia 
+* Technologies for Theatre Arts and Cultural Heritage, Invited Talk, 3rd International Research Workshop, November 2022, Surabaya, Indonesia 
 * Technology and Society - Industry Outlook, 2nd International Research Workshop, Invited Talk, October 2022, PSU, Phuket, Thailand
 * Industry Outlook for meeting UN Sustainable development goals, ADVANCE CRT - 2022 Research Colloquium, Keynote speech, Ireland
 * “Game Theory for Computer Networks and Distributed Systems”, Tutorial as part of 26th IEEE ICT 2019, Hanoi, Vietnam
@@ -43,6 +43,7 @@ author_profile: true
 
 ## Major ones in India
 
+* Keynote speech on Harnessing Signals, Transforming Data: AI's Impact on Cultural Heritage, Education and Healthcare, at IEEE SPICES 2024, IIIT Kottayam, September 2024
 * Keynote speech on Securing your production ready machine learning applications, at IEEE International Conference on Quantum Technologies, Communications, Computing, HArdware and Embedded Systems, IIIT- Kottayam, Kerala, September 2023 
 * Keynote speech on Making Industry ML systems production ready, 9th International Conference on Smart Computing and Communications, MITS, Kochi, India, August 2023
 * Chief guest and Keynote speech on production ready machine learning systems, 3rd International Conference on advances in Security and Computing", LBS College of Engineering, Kasaragod, Kerala, India, July 2023
