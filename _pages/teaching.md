@@ -9,18 +9,17 @@ author_profile: true
 ### AWARDS
 * Faculty Teaching Excellence Award 2024, School of Computing, NUS
 
-### Current
+### NUS
 
   * CS3203 Software Engineering Project
-  * TIC 4304 Software Security
-  * TIC 4004 Software Quality Control
-  * TIC 3902S Industrial Practice Project
+  * CS4218 Software Testing
+  * CS2103 Software Engineering
+  * TIC4303 Software Security
+  * TIC4004 Software Quality Control
+  * TIC2003 Software Development Project
+  * TIC3902S Industrial Practice Project
   * TIC4902S Software Engineering Capstone Project
 
-### Past
-
- * CS3203 Software Engineering Project 
- * CS2103 Software Engineering (Tutorials)
 
 ## Amrita Vishwa Vidyapeetham (2018-2020)
    
