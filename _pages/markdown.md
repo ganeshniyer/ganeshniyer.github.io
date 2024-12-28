@@ -39,6 +39,10 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Publications
 
+2025 	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
+
+2025 Venus Jia Lim, Ganesh Neelakanta Iyer, "On the Design of a Data Engineering Learning Platform Using Web Technologies and LLMs", IEEE EDUNINE, Uruguay, March 2025
+
 2024 Ganesh Neelakanta Iyer, Lim Bing Sen, Wong Zhi, Chester, Kelvin Chua, "TROFOS - Agile Project Management Platform for Software Engineering Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India
 
 2024 Ganesh Neelakanta Iyer, Goh, Yisheng, Chee Heng Er Metilda, Weng Xian Choong, Koh Shao Wei, "A Web-Based IDE for DevOps Learning in Software Engineering Higher Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India
