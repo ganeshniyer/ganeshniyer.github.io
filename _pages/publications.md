@@ -5,7 +5,7 @@ author_profile: true
 
 ## Opportunities
 
-### Active Projects (with opportunities for research and development collaborations)
+### Active Projects (with opportunities for research and development collaborations; Unpaid opportunities, Visa support can't be provided)
 Looking for students motivated and interested in the below active projects
 * Technological advancements for Wayang Kulit
 * Technological advancements for Kathakali
