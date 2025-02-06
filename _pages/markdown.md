@@ -39,18 +39,24 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Publications
 
+2025 Agrawal Naman, Ridwan Shariffdeen, Guanlin Wang, Sanka Rasnayaka and Ganesh Neelakanta Iyer, "Analysis of Student-LLM Interaction in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.[ARXIV]([https://arxiv.org/abs/2401.16186](https://arxiv.org/abs/2502.01273))
+
 2025 	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
 
 2025 Venus Jia Lim, Ganesh Neelakanta Iyer, "On the Design of a Data Engineering Learning Platform Using Web Technologies and LLMs", IEEE EDUNINE, Uruguay, March 2025
 
+2025 S. S. Vidhya, S. Mathi, V. Ananthanarayanan and G. Neelakanta Iyer, "IP-RPL: An Intelligent Power-Aware Routing Protocol for Next-Generation Low-Power Networks," in IEEE Sensors Journal, vol. 25, no. 2, pp. 3640-3648, 15 Jan.15, 2025, doi: 10.1109/JSEN.2024.3506816.
+
 2024 Ganesh Neelakanta Iyer, Lim Bing Sen, Wong Zhi, Chester, Kelvin Chua, "TROFOS - Agile Project Management Platform for Software Engineering Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India
 
-2024 Ganesh Neelakanta Iyer, Goh, Yisheng, Chee Heng Er Metilda, Weng Xian Choong, Koh Shao Wei, "A Web-Based IDE for DevOps Learning in Software Engineering Higher Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India
+2024 Ganesh Neelakanta Iyer, Goh, Yisheng, Chee Heng Er Metilda, Weng Xian Choong, Koh Shao Wei, "A Web-Based IDE for DevOps Learning in Software Engineering Higher Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India [ARXIV](https://arxiv.org/abs/2501.10363)
 
 2024 Ganesh Neelakanta Iyer, Nattapong Saengarunvong, Minh Hien Le, "When Artificial Intelligence meets Navarasas - Facial Expression Classification in Kathakali Using DSFD and CNN", 4th IEEE International Conference on Signal Processing, Informatics, Communication and Energy Systems 2024
 (IEEE SPICES 2024)
 
 2024 Sanka Rasnayaka, Wang Guanlin, Ridwan Shariffdeen, Ganesh Neelakanta Iyer, "An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.[ARXIV](https://arxiv.org/abs/2401.16186)
+
+2024  Vidhya, S.S.; Mathi, Senthilkumar; Anantha Narayanan, V.; Neelakanta Iyer, Ganesh, ‘An Intelligent Fuzzy Enabled Parent Node Selection Approach in Low Power Networks’. Journal of intelligent and fuzzy-systems, 2024 Pages 1-11, IOS Press 
 
 2024 Aishwarya Hariharan Iyer, Ganesh Neelakanta Iyer, "Gamified Screening For Developmental Dyslexia Among Young Readers", 3rd IEEE International Conference on Innovation in Technology, Bengalurue, India, 2024
 
