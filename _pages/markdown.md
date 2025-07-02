@@ -34,18 +34,18 @@ Primary scope is looking at building platforms for students to get industry like
 
 *  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
 *  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
-*  [Prabhu Natarajan](https://www.comp.nus.edu.sg/cs/people/prabhu/), SoC, NUS - Singapore, AI, Education
-*  [Sanka Rasanayaka](https://www.comp.nus.edu.sg/cs/people/sanka/), SoC, NUS - Singapore, Software Engineering Education
 
 ## Publications
 
 2025 Agrawal Naman, Ridwan Shariffdeen, Guanlin Wang, Sanka Rasnayaka and Ganesh Neelakanta Iyer, "Analysis of Student-LLM Interaction in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.[ARXIV]([https://arxiv.org/abs/2401.16186](https://arxiv.org/abs/2502.01273))
 
-2025 	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
+2025 [BEST PAPER AWARD]	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
 
 2025 Venus Jia Lim, Ganesh Neelakanta Iyer, "On the Design of a Data Engineering Learning Platform Using Web Technologies and LLMs", IEEE EDUNINE, Uruguay, March 2025
 
 2025 S. S. Vidhya, S. Mathi, V. Ananthanarayanan and G. Neelakanta Iyer, "IP-RPL: An Intelligent Power-Aware Routing Protocol for Next-Generation Low-Power Networks," in IEEE Sensors Journal, vol. 25, no. 2, pp. 3640-3648, 15 Jan.15, 2025, doi: 10.1109/JSEN.2024.3506816.
+
+2024 Ganesh Neelakanta Iyer and Sachit Bhardwaj. 2024.Kathakali character identification–using deep learning techniques and web technologies for Indian cultural heritage. Digital Applications in Archaeology and Cultural Heritage, 32:e00300
 
 2024 Ganesh Neelakanta Iyer, Lim Bing Sen, Wong Zhi, Chester, Kelvin Chua, "TROFOS - Agile Project Management Platform for Software Engineering Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India
 
@@ -58,9 +58,9 @@ Primary scope is looking at building platforms for students to get industry like
 
 2024  Vidhya, S.S.; Mathi, Senthilkumar; Anantha Narayanan, V.; Neelakanta Iyer, Ganesh, ‘An Intelligent Fuzzy Enabled Parent Node Selection Approach in Low Power Networks’. Journal of intelligent and fuzzy-systems, 2024 Pages 1-11, IOS Press 
 
-2024 Aishwarya Hariharan Iyer, Ganesh Neelakanta Iyer, "Gamified Screening For Developmental Dyslexia Among Young Readers", 3rd IEEE International Conference on Innovation in Technology, Bengalurue, India, 2024
+2024 Aishwarya Hariharan Iyer, Ganesh Neelakanta Iyer, "Gamified Screening For Developmental Dyslexia Among Young Readers", 3rd IEEE International Conference on Innovation in Technology, Bengaluru, India, 2024
 
-2024 Wu Zhenhan, Ganesh Neelakanta Iyer, "Improved BCoop, A Cooperation-Promoting Reward Scheme in Heterogeneous Federated Learning", 2024 4th International Conference on Data Engineering and Communication systems -ICDECS-2024 [March 22nd  &  23rd 2024, RNSIT  Bangalore
+2024 [BEST PAPER AWARD] Wu Zhenhan, Ganesh Neelakanta Iyer, "Improved BCoop, A Cooperation-Promoting Reward Scheme in Heterogeneous Federated Learning", 2024 4th International Conference on Data Engineering and Communication systems -ICDECS-2024 [March 22nd  &  23rd 2024, RNSIT  Bangalore
 
 2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, New Zealand
 
