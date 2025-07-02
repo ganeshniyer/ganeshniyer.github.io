@@ -25,7 +25,7 @@ Primary scope is looking at building platforms for students to get industry like
 
 ## Research Grant
 
-### HSS Seed Fund (Collaborative Research) 2, 2022 (Co-PI)
+### HSS Seed Fund (Collaborative Research) 2, 2022-2024 (Co-PI)
 
 **Title:** Using Machine Learning to reconstruct historical objects in culturally-situated ways \
 **PI:**  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore
