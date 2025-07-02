@@ -30,7 +30,7 @@ Primary scope is looking at building platforms for students to get industry like
 **Title:** Using Machine Learning to reconstruct historical objects in culturally-situated ways \
 **PI:**  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore
 
-## Collaborators 
+## External Collaborators 
 
 *  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
 *  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
