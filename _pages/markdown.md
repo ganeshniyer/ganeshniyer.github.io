@@ -34,8 +34,11 @@ Primary scope is looking at building platforms for students to get industry like
 
 *  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
 *  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
+*  [Senthil Kumar M](https://www.amrita.edu/faculty/m-senthil/), School of Computing, Amtrita Vishwa Vidyapeetham, India - Sensor Networks
+*  [Assoc. Prof. Dr. Patricia Caratozzolo](https://research.tec.mx/vivo-tec/display/PID_23643),School of Engineering and Sciences, Tecnologico de Monterrey, Mexico - AI Education
+*  [Jose Daniel Azofeifa](https://scholar.google.com/citations?user=THSxP5oAAAAJ&hl=es), Tecnologico de Monterrey, Mexico - AI Education
 
-## Publications
+## Publications [Full LIST](https://orcid.org/0000-0003-4728-0225)
 
 2025 Agrawal Naman, Ridwan Shariffdeen, Guanlin Wang, Sanka Rasnayaka and Ganesh Neelakanta Iyer, "Analysis of Student-LLM Interaction in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.[ARXIV]([https://arxiv.org/abs/2401.16186](https://arxiv.org/abs/2502.01273))
 
@@ -45,7 +48,7 @@ Primary scope is looking at building platforms for students to get industry like
 
 2025 S. S. Vidhya, S. Mathi, V. Ananthanarayanan and G. Neelakanta Iyer, "IP-RPL: An Intelligent Power-Aware Routing Protocol for Next-Generation Low-Power Networks," in IEEE Sensors Journal, vol. 25, no. 2, pp. 3640-3648, 15 Jan.15, 2025, doi: 10.1109/JSEN.2024.3506816.
 
-2024 Ganesh Neelakanta Iyer and Sachit Bhardwaj. 2024.Kathakali character identification–using deep learning techniques and web technologies for Indian cultural heritage. Digital Applications in Archaeology and Cultural Heritage, 32:e00300
+2024 Ganesh Neelakanta Iyer and Sachit Bhardwaj. 2024 Kathakali character identification–using deep learning techniques and web technologies for Indian cultural heritage. Digital Applications in Archaeology and Cultural Heritage, 32:e00300
 
 2024 Ganesh Neelakanta Iyer, Lim Bing Sen, Wong Zhi, Chester, Kelvin Chua, "TROFOS - Agile Project Management Platform for Software Engineering Education", International Conference on Teaching, Assessment and Learning for Engineering, IEEE TALE, December 2024, India
 
