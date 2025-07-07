@@ -11,17 +11,17 @@ redirect_from:
 
 With the aim of using Software Engineering and technological advancements for the benefit of various aspects of the society, Dr Ganesh founded STeAdS virtual research group in 2021. Students and collaborators from different parts of the world are working with him on various projects. Three focus areas are Cultural Heritage, Healthcare and Education
 
-### Technology for Arts and Cultural Heritage
+### Technology for Arts and Cultural Heritage - Computational Humanities
 
 Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indoensia are originated centuries ago and are in the current scope for research by STeAds on applying technologies such as artificial intelligence, image processing and cloud computing. 
 
-### Healthcare
+### Healthcare -  EdgeAI
 
 The reseacch scope is currently (not limited to) on exploring TinyML and similar technologies for AI at the edge of the network, AI for helping kids wth learning disability etc. 
 
-### Education
+### AI and SE Education
 
-Primary scope is looking at building platforms for students to get industry like experience in Software Engineering development principles and practices. Examples include budiling an academic project management platform, a platform for custom AI education etc. 
+Primary scope is looking at building platforms for students to get industry like experience in Software Engineering development principles and practices. Examples include budiling an academic project management platform (TROFOS), a platform for custom AI education etc. These platforms harness the benefits of cutting edge technologies such as AI for software engineering
 
 ## Research Grant
 
@@ -42,7 +42,7 @@ Primary scope is looking at building platforms for students to get industry like
 
 2025 Agrawal Naman, Ridwan Shariffdeen, Guanlin Wang, Sanka Rasnayaka and Ganesh Neelakanta Iyer, "Analysis of Student-LLM Interaction in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2024), LLM4Code Workshop.[ARXIV]([https://arxiv.org/abs/2401.16186](https://arxiv.org/abs/2502.01273))
 
-2025 [BEST PAPER AWARD]	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
+2025 **[BEST PAPER AWARD]**	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
 
 2025 Venus Jia Lim, Ganesh Neelakanta Iyer, "On the Design of a Data Engineering Learning Platform Using Web Technologies and LLMs", IEEE EDUNINE, Uruguay, March 2025
 
@@ -63,7 +63,7 @@ Primary scope is looking at building platforms for students to get industry like
 
 2024 Aishwarya Hariharan Iyer, Ganesh Neelakanta Iyer, "Gamified Screening For Developmental Dyslexia Among Young Readers", 3rd IEEE International Conference on Innovation in Technology, Bengaluru, India, 2024
 
-2024 [BEST PAPER AWARD] Wu Zhenhan, Ganesh Neelakanta Iyer, "Improved BCoop, A Cooperation-Promoting Reward Scheme in Heterogeneous Federated Learning", 2024 4th International Conference on Data Engineering and Communication systems -ICDECS-2024 [March 22nd  &  23rd 2024, RNSIT  Bangalore
+2024 **[BEST PAPER AWARD]** Wu Zhenhan, Ganesh Neelakanta Iyer, "Improved BCoop, A Cooperation-Promoting Reward Scheme in Heterogeneous Federated Learning", 2024 4th International Conference on Data Engineering and Communication systems -ICDECS-2024 [March 22nd  &  23rd 2024, RNSIT  Bangalore
 
 2023 Yu Ting Toh, Wei Yue Ngoh, Sagar Sureka, Ganesh Neelakanta Iyer and Prabhu Natarajan, "Artificial Intelligence Education – Self guided learning", International Conference on Teaching, Assessment and Learning for Engineering, November 2023, New Zealand
 
