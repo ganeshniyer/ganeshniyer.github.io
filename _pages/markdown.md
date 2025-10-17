@@ -15,7 +15,7 @@ With the aim of using Software Engineering and technological advancements for th
 
 The reseacch scope is currently (not limited to) on exploring TinyML and similar technologies for AI at the edge of the network, AI for helping kids wth learning disability etc. 
 
-### AI and SE Education
+### AI and Sofware Engineering Education
 
 Primary scope is looking at building platforms for students to get industry like experience in Software Engineering development principles and practices. Examples include budiling an academic project management platform (TROFOS), a platform for custom AI education etc. These platforms harness the benefits of cutting edge technologies such as AI for software engineering
 
@@ -40,7 +40,13 @@ Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indo
 
 ## Publications [Full LIST](https://orcid.org/0000-0003-4728-0225)
 
-2025 Agrawal Naman, Ridwan Shariffdeen, Guanlin Wang, Sanka Rasnayaka and Ganesh Neelakanta Iyer, "Analysis of Student-LLM Interaction in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2025), LLM4Code Workshop.[ARXIV]([https://arxiv.org/abs/2401.16186](https://arxiv.org/abs/2502.01273))
+2025 Michael Wayane, R V Hari Girnadi, Ganesh Neelakanta Iyer, "Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration", IEEE TALE 2025, MAcau, China, 2025
+
+2025 Koh Rui Jie, Tjan Eng Ger Kelvin, Wang Xing Yi, Sanka Rasanayaka, Ganesh Neelakanta Iyer, "Data Driven Insights: Pull Request Visualizations and Static Code Analysis in Multi-Git Repo Classrooms", IEEE TALE 2025, MAcau, China. 2025
+
+2025 Miguel Escobar Varela, Stephane Bressan, Faizah Zakaria, Ganesh Neelalkanta Iyer, Guo Quan Seng, Pratik Karmakar, "Advancing OCR and Word Sense Disambiguation for the Jawi Script using LLMs and VLMs", Digital Humanities Conference, Lisbon, Portugal 2025
+
+2025 Agrawal Naman, Ridwan Shariffdeen, Guanlin Wang, Sanka Rasnayaka and Ganesh Neelakanta Iyer, "Analysis of Student-LLM Interaction in a Software Engineering Project", At the International Conference in Software Engineering (ICSE 2025), LLM4Code Workshop.[ARXIV](https://arxiv.org/abs/2502.01273)
 
 2025 **[BEST PAPER AWARD]**	Li Xue Pua, Rushil Ramesh, Prabhu Natarajan, Ganesh Neelakanta Iyer, "CustomAIzEd: Bridging Interdisciplinary Gaps in AI Education With Customized Content", IEEE EDUCON, London, April 2025
 
