@@ -40,9 +40,11 @@ Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indo
 
 ## Publications [Full LIST](https://orcid.org/0000-0003-4728-0225)
 
-2025 Michael Wayane, R V Hari Girnadi, Ganesh Neelakanta Iyer, "Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration", IEEE TALE 2025, MAcau, China, 2025
+2026 Ganesh Neelakanta Iyer, Zong Xian Kang, Gerald Ng Jun Xiang, "MLOPs, GenAI and Indian Cultural Heritage - A case study on employing technological advancements for Kathakali", IEEE IMCOM, 20th International Conference on Ubiquitous Information Management and Communication, Hanoi 2026
 
-2025 Koh Rui Jie, Tjan Eng Ger Kelvin, Wang Xing Yi, Sanka Rasanayaka, Ganesh Neelakanta Iyer, "Data Driven Insights: Pull Request Visualizations and Static Code Analysis in Multi-Git Repo Classrooms", IEEE TALE 2025, MAcau, China. 2025
+2025 Michael Wayane, R V Hari Girnadi, Ganesh Neelakanta Iyer, "Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration", IEEE TALE 2025, Macau, China, 2025
+
+2025 Koh Rui Jie, Tjan Eng Ger Kelvin, Wang Xing Yi, Sanka Rasanayaka, Ganesh Neelakanta Iyer, "Data Driven Insights: Pull Request Visualizations and Static Code Analysis in Multi-Git Repo Classrooms", IEEE TALE 2025, Macau, China. 2025
 
 2025 Miguel Escobar Varela, Stephane Bressan, Faizah Zakaria, Ganesh Neelalkanta Iyer, Guo Quan Seng, Pratik Karmakar, "Advancing OCR and Word Sense Disambiguation for the Jawi Script using LLMs and VLMs", Digital Humanities Conference, Lisbon, Portugal 2025
 
