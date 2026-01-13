@@ -33,18 +33,29 @@ Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indo
 ## External Collaborators 
 
 *  [Deepu John](https://people.ucd.ie/deepu.john), UCD, Dublin, Ireland - AI, Healthcare 
-*  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
-*  [Senthil Kumar M](https://www.amrita.edu/faculty/m-senthil/), School of Computing, Amtrita Vishwa Vidyapeetham, India - Sensor Networks
+* [Senthil Kumar M](https://www.amrita.edu/faculty/m-senthil/), School of Computing, Amtrita Vishwa Vidyapeetham, India - Sensor Networks
 *  [Assoc. Prof. Dr. Patricia Caratozzolo](https://research.tec.mx/vivo-tec/display/PID_23643),School of Engineering and Sciences, Tecnologico de Monterrey, Mexico - AI Education
 *  [Jose Daniel Azofeifa](https://scholar.google.com/citations?user=THSxP5oAAAAJ&hl=es), Tecnologico de Monterrey, Mexico - AI Education
+*  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
+*  [R V Hari Ginardi] Department of Information Technology, Institut Teknologi Sepuluh Nopember - AI, Software Engineering
 
 ## Publications [Full LIST](https://orcid.org/0000-0003-4728-0225)
+
+2026 Qingyuan Wang, Ganesh Neelakanta Iyer, Deepu John, Dynamic Model Mixtures for Efficient AI Inference in Real-Time Biomedical Applications, IEEE Transactions on Instrumentation & Measurement, Accepted for publication in 2026
+
+2026 Lim Song Yang, Samuel, Tang Bo Kuan, Tham Rui Cong, Julian Rosas Scull, Alejandro Adorjan, Ganesh Neelakanta Iyer, AI Enabled Agile Project Management Platform for Learning and Assessment in Software Engineering Education, IEEE EDUCON 2026 Egypt
+
+Jhoan Sebastian Tenjo Garcia, Alejandro Adorjan and Ganesh Neelakanta Iyer, Towards an Explainable Dropout Prediction Model: A Hybrid Neural Network Approach, IEEE EDUNINE 2026, Mexico, March 2026
 
 2026 Ganesh Neelakanta Iyer, Zong Xian Kang, Gerald Ng Jun Xiang, "MLOPs, GenAI and Indian Cultural Heritage - A case study on employing technological advancements for Kathakali", IEEE IMCOM, 20th International Conference on Ubiquitous Information Management and Communication, Hanoi 2026
 
 2025 Michael Wayane, R V Hari Girnadi, Ganesh Neelakanta Iyer, "Intelligent Automation of Student Record Standardization: An Evaluation of Multi-AI Agent Efficacy in Educational Administration", IEEE TALE 2025, Macau, China, 2025
 
 2025 Koh Rui Jie, Tjan Eng Ger Kelvin, Wang Xing Yi, Sanka Rasanayaka, Ganesh Neelakanta Iyer, "Data Driven Insights: Pull Request Visualizations and Static Code Analysis in Multi-Git Repo Classrooms", IEEE TALE 2025, Macau, China. 2025
+
+Mathi, S., Rohan Lal, G., Madala, L. C., Reddy, K. A., Jagadhabhiram, P., & Neelakanta Iyer, G. (2025). FedBHAD: Energy-Efficient Federated Learning for Black Hole Attack Detection in RPL-Based Low-Power IoT Networks. Emerging Science Journal, 9(6), 2884–2898. https://doi.org/10.28991/ESJ-2025-09-06-01
+
+Sangeetha, Rakseda Keerthi Alagarsamy, Senthilkumar Mathi, Akibu Mahmoud Abdullahi and Ganesh Neelakanta Iyer. “Federated Learning-Based Parent Selection in Low Power and Lossy Networks to Enhance Energy Efficiency.” IEEE Open Journal of the Communications Society 6 (2025): 10123-10138.
 
 2025 Miguel Escobar Varela, Stephane Bressan, Faizah Zakaria, Ganesh Neelalkanta Iyer, Guo Quan Seng, Pratik Karmakar, "Advancing OCR and Word Sense Disambiguation for the Jawi Script using LLMs and VLMs", Digital Humanities Conference, Lisbon, Portugal 2025
 
