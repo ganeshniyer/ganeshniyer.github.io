@@ -45,7 +45,7 @@ Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indo
 
 2026 Lim Song Yang, Samuel, Tang Bo Kuan, Tham Rui Cong, Julian Rosas Scull, Alejandro Adorjan, Ganesh Neelakanta Iyer, AI Enabled Agile Project Management Platform for Learning and Assessment in Software Engineering Education, IEEE EDUCON 2026 Egypt
 
-Jhoan Sebastian Tenjo Garcia, Alejandro Adorjan and Ganesh Neelakanta Iyer, Towards an Explainable Dropout Prediction Model: A Hybrid Neural Network Approach, IEEE EDUNINE 2026, Mexico, March 2026
+2026 Jhoan Sebastian Tenjo Garcia, Alejandro Adorjan and Ganesh Neelakanta Iyer, Towards an Explainable Dropout Prediction Model: A Hybrid Neural Network Approach, IEEE EDUNINE 2026, Mexico, March 2026
 
 2026 Ganesh Neelakanta Iyer, Zong Xian Kang, Gerald Ng Jun Xiang, "MLOPs, GenAI and Indian Cultural Heritage - A case study on employing technological advancements for Kathakali", IEEE IMCOM, 20th International Conference on Ubiquitous Information Management and Communication, Hanoi 2026
 
@@ -53,9 +53,9 @@ Jhoan Sebastian Tenjo Garcia, Alejandro Adorjan and Ganesh Neelakanta Iyer, Towa
 
 2025 Koh Rui Jie, Tjan Eng Ger Kelvin, Wang Xing Yi, Sanka Rasanayaka, Ganesh Neelakanta Iyer, "Data Driven Insights: Pull Request Visualizations and Static Code Analysis in Multi-Git Repo Classrooms", IEEE TALE 2025, Macau, China. 2025
 
-Mathi, S., Rohan Lal, G., Madala, L. C., Reddy, K. A., Jagadhabhiram, P., & Neelakanta Iyer, G. (2025). FedBHAD: Energy-Efficient Federated Learning for Black Hole Attack Detection in RPL-Based Low-Power IoT Networks. Emerging Science Journal, 9(6), 2884–2898. https://doi.org/10.28991/ESJ-2025-09-06-01
+2025 Mathi, S., Rohan Lal, G., Madala, L. C., Reddy, K. A., Jagadhabhiram, P., & Neelakanta Iyer, G. (2025). FedBHAD: Energy-Efficient Federated Learning for Black Hole Attack Detection in RPL-Based Low-Power IoT Networks. Emerging Science Journal, 9(6), 2884–2898. https://doi.org/10.28991/ESJ-2025-09-06-01
 
-Sangeetha, Rakseda Keerthi Alagarsamy, Senthilkumar Mathi, Akibu Mahmoud Abdullahi and Ganesh Neelakanta Iyer. “Federated Learning-Based Parent Selection in Low Power and Lossy Networks to Enhance Energy Efficiency.” IEEE Open Journal of the Communications Society 6 (2025): 10123-10138.
+2025 Sangeetha, Rakseda Keerthi Alagarsamy, Senthilkumar Mathi, Akibu Mahmoud Abdullahi and Ganesh Neelakanta Iyer. “Federated Learning-Based Parent Selection in Low Power and Lossy Networks to Enhance Energy Efficiency.” IEEE Open Journal of the Communications Society 6 (2025): 10123-10138.
 
 2025 Miguel Escobar Varela, Stephane Bressan, Faizah Zakaria, Ganesh Neelalkanta Iyer, Guo Quan Seng, Pratik Karmakar, "Advancing OCR and Word Sense Disambiguation for the Jawi Script using LLMs and VLMs", Digital Humanities Conference, Lisbon, Portugal 2025
 
