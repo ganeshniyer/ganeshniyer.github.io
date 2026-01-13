@@ -37,7 +37,7 @@ Traditional theatre arts such as Kathakali from India and Wayang Kulit from Indo
 *  [Assoc. Prof. Dr. Patricia Caratozzolo](https://research.tec.mx/vivo-tec/display/PID_23643),School of Engineering and Sciences, Tecnologico de Monterrey, Mexico - AI Education
 *  [Jose Daniel Azofeifa](https://scholar.google.com/citations?user=THSxP5oAAAAJ&hl=es), Tecnologico de Monterrey, Mexico - AI Education
 *  [Miguel Escobar Varela](https://miguelescobar.com/), FASS, NUS, Singapore - Technology for Theatre Arts
-*  [R V Hari Ginardi] Department of Information Technology, Institut Teknologi Sepuluh Nopember - AI, Software Engineering
+*  [R V Hari Ginardi](https://scholar.its.ac.id/en/persons/raden-venantius-hari-ginardi/) Department of Information Technology, Institut Teknologi Sepuluh Nopember - AI, Software Engineering
 
 ## Publications [Full LIST](https://orcid.org/0000-0003-4728-0225)
 
