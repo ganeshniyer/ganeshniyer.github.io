@@ -8,12 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-Currently, Dr. Ganesh Neelakanta Iyer holds a position as a lecturer in the Department of Computer Science at National University of Singapore (NUS). He has received his Bachelor’s degree in Computer Science and Engineering (University first rank) from Mahatma Gandhi University, Kerala, India in 2004 and Masters and PhD degrees from National University of Singapore in 2008 and 2012 respectively. He brings in a decade of industry experience in various companies including Salesforce, Sasken Communication Technologies, NXP semiconductor and Progress software. He has handled several roles in the software industry including QA Architect, Technical Support Manager, Engineering development, Lead DevOps Engineer and Technology Evangelist. He has experience working in academic positions at Amrita Vishwa Vidyapeetham, Coimbatore (as Associate Professor) and IIIT- Hyderabad (as visiting Faculty). 
+Dr. Ganesh Neelakanta Iyer is a Senior Lecturer in the Department of Computer Science at the National University of Singapore. A dedicated educator and researcher, he bridges the gap between high-level industrial practice and academic excellence, specializing in Agile Software Engineering, Cloud Computing, and Applied Machine Learning.
 
-He is a staunch supporter of agile software engineering and favors the agile development of software solutions. With his professional background working on large-scale business software products and managing various agile positions like Scrum Master and Product Owner, he is now sharing his software engineering expertise with NUS students.
+**Education & Academic Background**
+Dr. Iyer holds a distinguished academic record, having earned his Bachelor’s degree in Computer Science and Engineering from Mahatma Gandhi University, Kerala, where he secured the University First Rank. He subsequently moved to Singapore to complete both his Master’s (2008) and PhD (2012) at the National University of Singapore.
 
-He has knowledge and experience in various areas including Cloud/Edge Computing Paradigms, Agile Software Engineering practices, Economic models (Game Theoretic principles). Internet of Things (IoT) based systems, Machine Learning and technology for Theatre arts and Cultural Heritage (such as Kathakali and Wayang Kulit). 
+Prior to his current role at NUS, he held significant academic positions as an Associate Professor at Amrita Vishwa Vidyapeetham and as a Visiting Faculty member at IIIT-Hyderabad.
 
-He is a senior member, IEEE. He has published two book chapters in the “Encyclopaedia for Cloud Computing” published in 2016 in addition to several book chapters, journals and conference publications. In numerous academic and business conferences held in a number of nations, including the USA, Europe, Australia, and Asia, Dr. Iyer has presented a number of hands-on workshops and speeches on a variety of cutting-edge technology topics. Many of these focused on his contributions to software quality analysis in the industry using modern software engineering techniques like Agile for application development incorporating cloud platforms, mobile platforms, and IoT-based systems.
+**Industry Expertise**
+With over a decade of experience in the software industry, Dr. Iyer has worked with global leaders such as Salesforce, NXP Semiconductor, Sasken Communication Technologies, and Progress Software. His multifaceted career has spanned various critical roles, including - QA Architect, Technical Support Manager, Engineering Development Lead, Lead DevOps Engineer and Technology Evangelist.
 
-He is also a maestro at the Indian traditional dance known as Kathakali. By organizing Kathakali performances, workshops, demonstrations, and performances on his own, he devotes a significant amount of his personal time to fostering this traditional art. He has also composed a Kathakalistory “Sri Mookambika Mahathmyam” which has been staged in multiple venues in India.
+As a staunch advocate for Agile methodologies, he has managed complex, large-scale business products in roles such as Scrum Master and Product Owner. He now brings this practical expertise into the classroom to prepare the next generation of software engineers.
+
+**Research & Innovation: STeAdS**
+In 2021, Dr. Iyer founded STeAdS (Software Engineering and Technological Advancements for Society), a virtual research group that leverages technology for social good. STeAdS fosters global collaboration on projects within three primary pillars: (1) Cultural Heritage: Applying AI, image processing, and cloud computing to preserve traditional theatre arts like Kathakali (India) and Wayang Kulit (Indonesia), (2) Healthcare: Utilizing modern engineering paradigms to improve health outcomes, (3) Education: Developing technological solutions to enhance learning and accessibility.
+
+**Professional Achievements & Publications**
+An IEEE Senior Member, Dr. Iyer has contributed extensively to the field of computational social sciences, EdgeAI, Software Engineering Education and Federated learning in low-power networks.
+
+Global Presence: He is a frequent speaker and workshop lead at academic and business conferences across North America, South Ameria, Europe, Australia, and Asia, focusing on Agile software engineering, computational social sciences and edgeAI for healthcare.
+
+**Arts & Culture**
+Beyond his technical pursuits, Dr. Iyer is a Maestro of Kathakali, a traditional Indian dance-drama. He is deeply committed to cultural preservation, organizing performances and workshops worldwide. Notably, he composed the Kathakali story "Sri Mookambika Mahathmyam," which has been staged across multiple venues in India.
