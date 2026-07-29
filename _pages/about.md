@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Dr. Ganesh Neelakanta Iyer is a Senior Lecturer in the Department of Computer Science at the National University of Singapore. A dedicated educator and researcher, he bridges the gap between high-level industrial practice and academic excellence, specializing in Agile Software Engineering, Cloud Computing, and Applied Machine Learning.
+Dr. Ganesh Neelakanta Iyer is an award-winning educator at NUS. He is currently a Senior Lecturer in the Department of Computer Science at the National University of Singapore. A dedicated educator and researcher, he bridges the gap between high-level industrial practice and academic excellence, specializing in Agile Software Engineering, Cloud Computing, and Applied Machine Learning.
 
 **Education & Academic Background**:
 Dr. Iyer holds a distinguished academic record, having earned his Bachelor’s degree in Computer Science and Engineering from Mahatma Gandhi University, Kerala, where he secured the University First Rank. He subsequently moved to Singapore to complete both his Master’s (2008) and PhD (2012) at the National University of Singapore.
